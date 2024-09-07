@@ -21,7 +21,7 @@ To run the model, you need TensorFlow Graphics. You can find the model in the fo
 ### 3. Import the Model into Your Kaggle Notebook
 
 - Open your Kaggle notebook.
-- On the bottom-right corner, click the small sidebar arrow to open the input settings.
+- On the bottom-right corner, click the small sidebar arrow to open the right side bar under it will be input settings.
 - Under `Input`, select `Add Input`.
 - Paste the model URL from the link above and click `Add Model`.
 
