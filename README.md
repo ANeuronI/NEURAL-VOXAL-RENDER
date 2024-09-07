@@ -27,5 +27,5 @@ To run the model, you need TensorFlow Graphics. You can find the model in the fo
 
 ## Important Notes
 
-- **Internet Access:** To download all dependencies, ensure that you have internet access enabled in Kaggle. This requires phone number verification; without it, the internet option will be hidden.
+- **Internet Access:** To download all dependencies, ensure that you have internet access enabled in Kaggle. This requires phone number verification. without the verification, the internet option will be hidden.
 - **Enabling Internet:** You can toggle internet access under the session options in the right sidebar.
